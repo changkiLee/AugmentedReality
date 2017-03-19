@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ARMath", "ARMath\ARMath.vcproj", "{F027A17B-12D5-4BCD-9B4E-DD4E4197CE9D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ARVideo", "ARVideo\ARVideo.vcproj", "{CC2B9EAD-BEB4-425C-AE59-040DE2F72DEA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleTest", "SimpleTest\SimpleTest.vcproj", "{2A2B87B3-95A8-41E3-890E-5A0C1123617F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ARMarker", "ARMarker\ARMarker.vcproj", "{4F885A44-BB3B-4E0F-8069-932AD1BF79D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F027A17B-12D5-4BCD-9B4E-DD4E4197CE9D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F027A17B-12D5-4BCD-9B4E-DD4E4197CE9D}.Debug|Win32.Build.0 = Debug|Win32
+		{F027A17B-12D5-4BCD-9B4E-DD4E4197CE9D}.Release|Win32.ActiveCfg = Release|Win32
+		{F027A17B-12D5-4BCD-9B4E-DD4E4197CE9D}.Release|Win32.Build.0 = Release|Win32
+		{CC2B9EAD-BEB4-425C-AE59-040DE2F72DEA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC2B9EAD-BEB4-425C-AE59-040DE2F72DEA}.Debug|Win32.Build.0 = Debug|Win32
+		{CC2B9EAD-BEB4-425C-AE59-040DE2F72DEA}.Release|Win32.ActiveCfg = Release|Win32
+		{CC2B9EAD-BEB4-425C-AE59-040DE2F72DEA}.Release|Win32.Build.0 = Release|Win32
+		{2A2B87B3-95A8-41E3-890E-5A0C1123617F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2A2B87B3-95A8-41E3-890E-5A0C1123617F}.Debug|Win32.Build.0 = Debug|Win32
+		{2A2B87B3-95A8-41E3-890E-5A0C1123617F}.Release|Win32.ActiveCfg = Release|Win32
+		{2A2B87B3-95A8-41E3-890E-5A0C1123617F}.Release|Win32.Build.0 = Release|Win32
+		{4F885A44-BB3B-4E0F-8069-932AD1BF79D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F885A44-BB3B-4E0F-8069-932AD1BF79D1}.Debug|Win32.Build.0 = Debug|Win32
+		{4F885A44-BB3B-4E0F-8069-932AD1BF79D1}.Release|Win32.ActiveCfg = Release|Win32
+		{4F885A44-BB3B-4E0F-8069-932AD1BF79D1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
